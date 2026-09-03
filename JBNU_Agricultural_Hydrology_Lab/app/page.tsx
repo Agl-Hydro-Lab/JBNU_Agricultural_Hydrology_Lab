@@ -73,7 +73,7 @@ const members = [
   { name: "이정", role: "석사", english: "M.S. Student" },
   { name: "김대영", role: "학부연구생", english: "Undergraduate Researcher" },
   { name: "백의찬", role: "학부연구생", english: "Undergraduate Researcher" },
-  { name: "하재진", role: "학부연구생", english: "Undergraduate Researcher" },
+  { name: "gkgkgkkg하재진", role: "학부연구생", english: "Undergraduate Researcher" },
 ];
 
 const researchProjects = [
