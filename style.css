@@ -547,3 +547,10 @@ footer > a:last-child { justify-self: end; display: inline-flex; align-items: ce
 .hydro-system > :not(.hero-river-photo) {
   display: none;
 }
+.member-period {
+  margin: 12px 0 0;
+  color: #718096;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
